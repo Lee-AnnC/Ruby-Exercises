@@ -1,0 +1,1 @@
+I like 2.6.0, this was the one i was first introduced to ruby with.
